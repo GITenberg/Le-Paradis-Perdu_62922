@@ -1,0 +1,28 @@
+_repo: Le-Paradis-Perdu_62922
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Chateaubriand, François-René de
+    gutenberg_agent_id: '52187'
+    url: http://www.gutenberg.org/2009/agents/52187
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: https://en.wikipedia.org/wiki/John_Milton
+description: ''
+gutenberg_issued: '2020-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62922'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Paradis Perdu
+url: http://www.gutenberg.org/ebooks/62922
