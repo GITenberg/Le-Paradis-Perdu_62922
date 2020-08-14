@@ -1,10 +1,13 @@
 _repo: Le-Paradis-Perdu_62922
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Chateaubriand, François-René de
     gutenberg_agent_id: '52187'
     url: http://www.gutenberg.org/2009/agents/52187
+covers:
+- cover_type: archival
+  image_path: 62922-h/images/paradis_cover.jpg
 creator:
   author:
     agent_name: Milton, John
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/17
     wikipedia: https://en.wikipedia.org/wiki/John_Milton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62922#Le-Paradis-Perdu
 gutenberg_issued: '2020-08-13'
 gutenberg_type: Text
 identifiers:
